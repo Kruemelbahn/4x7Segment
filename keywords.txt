@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Buttons
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SevenSegment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+millis2	KEYWORD2
+
+clear	KEYWORD2
+init	KEYWORD2
+print	KEYWORD2
+printInt	KEYWORD2
+printChar	KEYWORD2
+setDigit	KEYWORD2
+setDP	KEYWORD2
+showDash	KEYWORD2
+showErr	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DIGIT_ZERO	LITERAL1
+DIGIT_BLANK	LITERAL1
+DIGIT_DASH	LITERAL1
+DIGIT_PERIOD	LITERAL1
